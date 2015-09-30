@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 審齋詞
+#+DATE: 2015-08-25 00:48:01.703596
+#+PROPERTY: ID KR4j0035
+#+PROPERTY: BASEEDITION WYG    
